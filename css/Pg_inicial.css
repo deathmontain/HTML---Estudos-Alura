@@ -1,0 +1,142 @@
+main{
+	float: left;
+	width: 1130px;
+	margin: 0;
+}
+main h1{
+	text-align: center;
+	background-color: #FA9632;
+	color: #FFF;
+	padding: 25px;
+	border-bottom: 10px solid black;
+	font-size: 60px;
+	text-transform: uppercase;
+}
+
+main h2{
+	font-size: 30px;
+	font-family: "Calibri", serif;
+	padding: 10px;
+	text-align: justify;
+	clear: both;
+}
+
+main h4{
+	font-size: 20px;
+	font-family: "Calibri", serif;
+	padding: 10px;
+	text-align: justify;
+}
+
+h1{
+	font-size: 30px;
+	font-family: "Calibri", serif;
+	padding: 10px;
+	text-align: justify;
+}
+
+h2{
+	font-family: "Calibri", serif;
+	padding: 10px;
+	text-align: justify;
+}
+
+h4{
+	font-family: "Calibri", serif;
+	padding: 10px;
+	text-align: justify;
+}
+
+p {
+	font-family: "Calibri", serif;
+	padding: 10px;
+    text-align: justify;
+}
+
+aside {
+	text-align: center;
+    background-color: #FA9632;
+    color: #F2FFFC;
+	padding: 10px;
+	float: left;
+	width: 189px;
+	border-bottom: 10px solid black;
+	border-left: 10px solid black;
+}
+
+aside h1 {
+	text-align: center;
+    font-size: 30px;
+    margin-bottom: 25px;
+}
+
+aside ul{
+	display: inline-block;
+}
+
+strong {
+    font-weight: bold;
+}
+
+em {
+    font-style: italic;
+}
+
+footer {
+    background-color: #000;
+    color: #F2FFFC;
+	text-align: center;
+	clear: both;
+	position: fixed;
+	width: 100%;
+	bottom: 0;
+}
+
+nav a{
+    color: #F2FFFC;
+}
+
+.texto {
+	width: 720px;
+	margin: auto;
+	padding: 30px 0;
+	padding-bottom: 40px;
+}
+.figure{
+	width: 200px;
+	height: 200px;
+	border: 10px solid black;
+	position: absolute;
+	top: 250px;
+}
+
+.figure2{
+	width: 1345px;
+    height:  350px;
+	float: center;
+}
+
+.home{
+	width: 0;
+	margin: 0;
+	padding: 0;
+}
+
+.icones a{
+	width: 50px;
+	height: 50px;
+	text-indent: -9999px;
+	display: inline-block;
+}
+
+.github{
+	background-image: url(../img/git.png);
+}
+
+.linkedin{
+	background-image: url(../img/linkedin.png);
+}
+
+.facebook{
+	background-image: url(../img/facebook.png);
+}
